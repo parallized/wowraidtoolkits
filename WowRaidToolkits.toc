@@ -1,0 +1,8 @@
+## Interface: 110200
+## Title: Wow Raid Toolkits
+## Notes: 团队工具包 - 显示团队玩家职业和职责信息
+## Author: Parallized
+## Version: 1.0.0
+## SavedVariables: WowRaidToolkitsDB
+
+WowRaidToolkits.lua
